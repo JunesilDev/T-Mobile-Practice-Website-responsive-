@@ -1,4 +1,5 @@
 T-Mobile Practice Website (Responsive)
+(https://junesildev.github.io/T-Mobile-Practice-Website-responsive-/)
 
 A mobile-first, responsive recreation of the T-Mobile homepage, built with plain HTML, CSS, and JavaScript as a front-end practice project. The layout adapts from small phones up to wide desktop screens, including a completely different navigation for each.
 
